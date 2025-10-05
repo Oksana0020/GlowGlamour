@@ -1,0 +1,13 @@
+target/
+.classpath
+.project
+.settings/
+.lsp/
+.cpcache/
+.nrepl-port
+.idea/
+*.iml
+.vscode/
+.calva/
+.clj-kondo/
+calva-output-window/
